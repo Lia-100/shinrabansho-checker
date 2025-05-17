@@ -1,6 +1,6 @@
 
 const sheetId = "128IVw_TJENV17IvkVUbSB_sUmoWOIvoDORVfsCh10kc";
-const apiKey = "AIzaSyA49NGyeK9bSDwMfZhHqKD6ZZYYPksW2ak";
+const apiKey = "AIzaSyAOi9uyGrg1O-C3FZoyu3P1Dpsvg4dhK4w";
 const categories = ["アルバム", "シングル", "コラボ"];
 let currentCategory = "アルバム";
 let ownedStatus = JSON.parse(localStorage.getItem("ownedStatus") || "{}");
